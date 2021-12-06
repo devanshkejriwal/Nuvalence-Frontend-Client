@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import ContactList from '../components/ContactList'
+import ContactList from '../components/ContactList.tsx'
 
 export default function Home() {
   return (
